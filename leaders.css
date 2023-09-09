@@ -1,0 +1,48 @@
+body{
+	background-color: lightblue;
+}
+.my-own-class{
+	background-color: purple;
+	color: burlywood;
+	border: 2px solid gold;
+	text-decoration-style: inherit;
+}
+.footer{
+	background-color: limegreen;
+	
+	border: 2px solid black;
+	width: 100%;
+}
+.col-md-6{
+	color: limegreen;
+}
+.col1{
+	background-color: beige;
+	color: darkgreen;
+	border: 6px solid powderblue;
+	font-style: italic;
+}
+.nestingcol{
+	background-color: turquoise;
+	color: gold;
+	height: 13vh;
+}
+.nestingcol2{
+	background-color: coral;
+	color: turquoise;
+}
+.smallcol{
+	background-color: purple;
+	color: black;
+}
+.smallcol2{
+	background-color: blue;
+	color: orange;
+}
+
+
+
+
+
+.....................................
+h1
